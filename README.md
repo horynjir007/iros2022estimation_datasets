@@ -4,7 +4,7 @@
 Decentralized Multi-robot Velocity Estimation for UAVs Enhancing Onboard Camera-based Velocity Measurements
 
 ## Videos
-http://mrs.felk.cvut.cz/ral-2022-estimation
+http://mrs.felk.cvut.cz/iros-2022-estimation
 
 ## Link
 Datasets available at: [datasets_desert](https://drive.google.com/drive/folders/1TLMuBI1ajkhl4B8UPbZmwjn7zkPJigY7?usp=sharing)  
